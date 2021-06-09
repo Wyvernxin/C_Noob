@@ -1,3 +1,1 @@
-First version type
-Second verstion type
-Third verstion type
+this is noob C self-learning part
